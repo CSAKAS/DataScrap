@@ -1,2 +1,4 @@
 # DataScrap
-Data Scrapt using bs4/selenium
+Data Scraping+ data visualization
+
+
